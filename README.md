@@ -1,6 +1,6 @@
 # 数据虫巢官网源码
 
->> 范围包括: <a href="http://www.mite8.com">数据虫巢官网(www.mite8.com)</a>数据可视化站点源码，基础源数据抓取代码，以及重构的分词逻辑。
+>> 范围包括: <a href="http://www.mite8.com" target="_blank">数据虫巢官网(www.mite8.com)</a>数据可视化站点源码，基础源数据抓取代码，以及重构的分词逻辑。
 
 ## 1、项目说明
 
