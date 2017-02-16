@@ -24,7 +24,7 @@ public class SegController {
 
     //分词接口
     @ResponseBody
-    @RequestMapping(value = "/nlp/seg")
+    @RequestMapping(value = "/mite8/tool/nlp_seg")
     public String SegWord(@RequestParam(value = "type", defaultValue = "simple") String type,  //simple简单模式，details详细模式
                             @RequestParam(value = "stop_flag", defaultValue = "false") String stopFlag, //是否启用启用词过滤true启用
                             @RequestParam(value = "rule_flag", defaultValue = "false") String ruleFlag,//是否启用规则过滤true启用
