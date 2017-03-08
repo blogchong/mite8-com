@@ -22,7 +22,7 @@ public class WechatController {
     private WpweixinService wpweixinService;
 
     //定时任务调用-问政更新
-    @RequestMapping(value = "/mite/wpweixin/task")
+    @RequestMapping(value = "/XXX/XXX/task")
     public String runJD(){
         logger.info("TASK BEGIN!");
         Thread t = new Thread(){
