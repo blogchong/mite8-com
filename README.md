@@ -9,7 +9,7 @@
 
 ## 2、开源系列教程
 
-* 当前项目/doc下，《mite-com项目说明.doc》  2017-03-14
+* <a href="https://github.com/blogchong/mite8-com/blob/master/doc/mite-com%E9%A1%B9%E7%9B%AE%E8%AF%B4%E6%98%8E.docx">《mite-com项目说明.doc》//数据虫巢读者群群友整理的  2017-03-14</a>
 
 * <a href="https://mp.weixin.qq.com/s/R6wymwBt4-KBUcPMAM6vDg">如何打造类似数据虫巢官网系列教程之三：网站架设  2017-03-07</a>
 
