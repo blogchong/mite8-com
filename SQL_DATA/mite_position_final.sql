@@ -3,9 +3,6 @@ Navicat MySQL Data Transfer
 
 Source Server         : 阿里云MySQL
 Source Server Version : 50714
-Source Host           : 120.24.45.89:9906
-Source Database       : mite_service
-
 Target Server Type    : MYSQL
 Target Server Version : 50714
 File Encoding         : 65001
