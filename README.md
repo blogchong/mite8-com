@@ -19,6 +19,8 @@
 
 ## 3、更新日志
 
+>> 2017-04-27 补充了电影分析部分的数据，以及增加了开源项目的支持入口，哈哈，强烈建议拉到底部。 
+
 >> 2017-03-14 数据虫巢读者群一朋友，撰写了本地跑起这个项目的文档，见/doc/mite-com项目说明.doc
 
 >> 2017-03-07 添加了外部依赖资源，位置在根目录下的myres，以及网站假设教程《如何打造类似数据虫巢官网系列教程之三：网站架设》，完整指导如何通过源码快速搭建起网站。
@@ -33,4 +35,8 @@
 
 >> PS：如果这个开源项目对你有所帮助，欢迎友情支助，虫巢将继续开源更多对大家有用的项目。
 金额随意，你的支持是虫巢努力的动力，哈哈~~ 
+
+<img src="https://github.com/blogchong/mite8-com/blob/master/image/wx.jpg?raw=true" width="341" height="460" />
+<-或者->
+<img src="https://github.com/blogchong/mite8-com/blob/master/image/zfb.jpg?raw=true" width="309" height="460" />
 
