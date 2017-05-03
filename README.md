@@ -36,7 +36,5 @@
 >> PS：如果这个开源项目对你有所帮助，欢迎友情支助，虫巢将继续开源更多对大家有用的项目。
 金额随意，你的支持是虫巢努力的动力，哈哈~~ 
 
-<img src="https://github.com/blogchong/mite8-com/blob/master/image/wx.jpg?raw=true" width="341" height="460" />
-<-或者->
-<img src="https://github.com/blogchong/mite8-com/blob/master/image/zfb.jpg?raw=true" width="309" height="460" />
+<img src="https://github.com/blogchong/mite8-com/blob/master/image/wx.jpg?raw=true" width="180" height="230" /><-或者-><img src="https://github.com/blogchong/mite8-com/blob/master/image/zfb.jpg?raw=true" width="154" height="230" />
 
